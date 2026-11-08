@@ -38,7 +38,7 @@
 
 ## 🎥 Demo
 
-▶️ **Demo video**: [watch / download on Google Drive](https://drive.google.com/file/d/<VIDEO_FILE_ID>/view?usp=sharing)
+▶️ **Demo video**: [watch / download on Google Drive](https://drive.google.com/file/d/1HGaehPgetpjYSsrHod8xmgquDl7SiBQz/view?usp=sharing)
 
 <!-- Add screenshots to docs/images/ then uncomment:
 ![Home page](docs/images/home.png)
